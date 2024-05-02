@@ -2,6 +2,7 @@
 
 print("Bem vindo, digite qual horário você estuda: M(Manhã),T(Tarde) ou N(Noite)")
 horario = (input("Digite aqui: "))
+
 if horario == "M":
     print("Bom dia")
 elif horario == "T":
